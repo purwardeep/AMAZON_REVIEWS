@@ -1,1 +1,2 @@
-Amazon Helpfulness Prediction
+Amazon Helpfulness Prediction and Topic modelling
+we used amazon electronics reviews dataset to predict helpfulness of the reviews to understand how review quality affects customers buying decisions and assist sellers/e-commerce sites make informed decisions. We implemented topic modelling using LDA to extract key insights from huge chunk of review data without having to go through them. The LDA Model helped us to understand the review text better before we run classification models using the text. We used Naïve Bayes and Support Vector Machine Classification Techniques.
